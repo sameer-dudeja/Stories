@@ -19,3 +19,9 @@ npm run dev
 # Run in production
 npm start
 ```
+## Screenshots
+
+![Login_Screenshot](https://github.com/sameer-dudeja/Stories/blob/master/Stories/Screenshots/Login.png?raw=true)
+
+![Dashboard_Screenshot](https://github.com/sameer-dudeja/Stories/blob/master/Stories/Screenshots/Dashboard.png?raw=true)
+
